@@ -11,7 +11,7 @@ class demo{
     }
     void check(){
         if(num1>num2){
-            cout<<"NUM1 is greater";
+            cout<<"NUM1 is greater for all";
         }
         else{
             cout<<"NUM 2 is greater";
